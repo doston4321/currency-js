@@ -18,6 +18,7 @@ async function getCurrency() {
             uzs.value = valyuta * usd.value + "so'm"
         })
         
+
     }
     catch(error){
         console.log("Xatolik",error);
